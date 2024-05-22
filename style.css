@@ -1,0 +1,51 @@
+    
+            .logo{
+                height: 92px;
+             width: 272px;
+              margin: auto;
+             text-align: center;
+            }
+             .page{
+                height: 92px;
+             width: 272px;
+              margin: auto;
+             text-align: center;
+           
+             padding: 0;
+            }
+            
+            .search-button{
+              
+             margin: auto; 
+             
+             text-align: center;
+             padding: 10px;
+             
+             
+            }
+            .search{
+                 
+              display: flex;
+              margin: auto;
+              flex-direction: column;
+           
+              text-align: center;
+            }
+            .search-input{
+              padding: 5px;
+            border: 1px solid ;
+            border-radius:90px ;
+            width: 250px;
+            margin: 0;
+            
+            }
+            input{
+                border: hidden;
+                
+            }
+            button{
+                background-color: white;
+                border: white;
+                padding-top: 20px;
+                
+            }
